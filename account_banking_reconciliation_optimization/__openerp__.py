@@ -4,7 +4,7 @@
     'category': 'Accounting and Financial Management',
     'description': """
     """,
-    'author': 'HanelSoft',
+    'author': 'Hanel Software Solution',
     'website': ' http://www.hanelsoft.vn',
     'depends': [
         'account_cutoff_base',
