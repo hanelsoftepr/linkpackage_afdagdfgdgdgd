@@ -19,5 +19,7 @@
         "report/report.xml",
     ],
     'installable': True,
+    'price': 200.00,
+    'currency': 'EUR',
     'active': False,
 }
