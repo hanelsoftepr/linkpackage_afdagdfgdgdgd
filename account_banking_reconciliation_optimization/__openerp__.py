@@ -1,10 +1,11 @@
 {
     'name': 'Bank Account Reconciliation Optimization',
-    'version': '1.7',
+    'summary': 'Why dont you spend 200 EUR for one the best bank reconciliation package',
+	'version': '1.7',
     'category': 'Accounting and Financial Management',
     'description': """
     """,
-    'author': 'Hanel Software Solution',
+    'author': 'Hanel Software Solutions',
     'website': ' http://www.hanelsoft.vn',
     'depends': [
         'account_cutoff_base',
