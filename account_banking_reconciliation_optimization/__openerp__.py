@@ -1,6 +1,6 @@
 {
     'name': 'Bank Account Reconciliation Optimization',
-    'summary': 'Why dont you spend 200 EUR for one the best bank reconciliation package',
+    'summary': "You are looking for the best bank reconciliation package for Odoo? Here you are!",
 	'version': '1.7',
     'category': 'Accounting and Financial Management',
     'description': """
@@ -24,3 +24,4 @@
     'currency': 'EUR',
     'active': False,
 }
+
